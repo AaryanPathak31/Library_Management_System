@@ -17,11 +17,4 @@ The Library Database Management Project is a Python-based application designed t
 - **SQLite/MySQL/PostgreSQL**: SQL database for storing library data (specific database choice should be mentioned here).
 - **SQLAlchemy/PyMySQL/SQLite3**: Libraries for SQL connectivity and ORM (Object-Relational Mapping).
 
-## Installation
-
-To get started with the Library Database Management Project, follow these steps:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/library-database-management.git
+##
